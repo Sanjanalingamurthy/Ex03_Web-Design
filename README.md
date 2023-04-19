@@ -25,9 +25,66 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
+~~~
+<html>
+<head>
+<title>slot timetable</title>
+</head>
+<body>
+<img src="saveethalogo.png"width="1000" height="150"img-align="center">
+<h1 style="text-align:center">SLOT TIME TABLE-SANJANA L(22005858)</h1>
+<table border=1px solid black width="100%">
+<tr style="background-color:yellow">
+<th>Day/Time</th>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+<tr style="background-color:cyan">
+<td style="background-color:yellow">8-10</td>
+<td>COMPLEX VARIABLES & DIFFERENTIAL EQUATIONS</td>
+<td>WEB DESIGNING</td>
+<td>STRENGTH OF MATERIALS</td>
+<td>ENGINEERING PHYSICS</td>
+<td>COMPLEX VARIABLES & DIFFERENTIAL EQUATIONS</td>
+</tr>
+<tr style="background-color:cyan">
+<td style="background-color:yellow">10-12</td>
+<td>ELECTRICAL MACHINES & POWER UTILIZATION</td>
+<td>FREE SLOT</td>
+<td>FREE SLOT</td>
+<td>THEORY OF MACHINES</td>
+<td>STRENGTH OF MATERIALS</td>
+</tr>
+<tr style="background-color:cyan">
+<td style="background-color:yellow">12-1</td>
+<td colspan="5">LUNCH</text-align:center></td>
+</tr>
+<tr style="background-color:cyan">
+<td style="background-color:yellow">1-3</td>
+<td>IRRIGATN & DRAINGE ENGNEERING</td>
+<td>IRRIGATN & DRAINGE ENGNEERING</td>
+<td>ENGINEERING PHYSICS</td>
+<td>PRINCIPLES OF SOIL SCIENCE</td>
+<td>PRINCIPLES OF HORTICULTURE</td>
+</tr>
+<tr style="background-color:cyan">
+<td style="background-color:yellow">3-5</td>
+<td>PRINCIPLES OF HORTICULTURE</td>
+<td>PRINCIPLES OF SOIL SCIENCE</td>
+<td>FREE SLOT</td>
+<td>ELECTRICAL MACHINES & POWER UTILIZATION</td>
+<td>WEB DESIGNING</td>
+</tr>
+</table>
+</body>
+</html>
+~~~
 
 ## OUTPUT
+![EX03 SLOT TIMETABLE](https://user-images.githubusercontent.com/127816526/233122451-4448a62a-e201-4141-842c-0b559d3cda22.JPG)
 
 
 ## RESULT
