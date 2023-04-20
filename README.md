@@ -31,7 +31,7 @@
 <title>slot timetable</title>
 </head>
 <body>
-<img src="saveethalogo.png"width="1000" height="150"img-align="center">
+<img src="saveethalogo.png"width="1000" height="150" align="center">
 <h1 style="text-align:center">SLOT TIME TABLE-SANJANA L(22005858)</h1>
 <table border=1px solid black width="100%">
 <tr style="background-color:yellow">
@@ -60,12 +60,12 @@
 </tr>
 <tr style="background-color:cyan">
 <td style="background-color:yellow">12-1</td>
-<td colspan="5">LUNCH</text-align:center></td>
+<td colspan="5" align="center">LUNCH</td>
 </tr>
 <tr style="background-color:cyan">
 <td style="background-color:yellow">1-3</td>
-<td>IRRIGATN & DRAINGE ENGNEERING</td>
-<td>IRRIGATN & DRAINGE ENGNEERING</td>
+<td>IRRIGATION & DRAINAGE ENGINEERING</td>
+<td>IRRIGATION & DRAINAGE ENGINEERING</td>
 <td>ENGINEERING PHYSICS</td>
 <td>PRINCIPLES OF SOIL SCIENCE</td>
 <td>PRINCIPLES OF HORTICULTURE</td>
@@ -81,10 +81,12 @@
 </table>
 </body>
 </html>
+
 ~~~
 
 ## OUTPUT
-![EX03 SLOT TIMETABLE](https://user-images.githubusercontent.com/127816526/233122451-4448a62a-e201-4141-842c-0b559d3cda22.JPG)
+![EX03 slot timetable](https://user-images.githubusercontent.com/127816526/233389617-36ee8e74-b726-4271-87c3-7db399d40527.JPG)
+
 
 
 ## RESULT
